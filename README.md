@@ -30,6 +30,5 @@ For any questions, please contact me via:
 - GitHub: [RPMcQuigg](https://github.com/RPMcQuigg)
 - Email: _____
 
-
-
-TihMsPnUfRIRrK9p
+## CODE ERROR
+I am unable to locally run my code as receive an "MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017" error from my MongoDB when locally hosting. In short its an error with the installation of any version of MongoDB to my system. I worked with my professor on this issue and we were able to come up with a work around by using MongoDB Atlas and Compass which worked for other projects but when I tried to run the application the with the new set up I still received a the "MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017" error. At this point I am unsure of what to do to fix the issue on my end. This error of prevents me from looking at and testing the application in Insomnia. When my code, before the error started I was able to run some simple test in Insomnia and the program seemed to work fine.
